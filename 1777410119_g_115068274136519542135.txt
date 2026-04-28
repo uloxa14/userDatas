@@ -1,0 +1,157 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 79166116,
+    "login": "g_115068274136519542135",
+    "loginDisplay": "THE FAST ON",
+    "name": "g_115068274136519542135",
+    "accountType": 1,
+    "level": 7,
+    "premiumPoints": 1,
+    "experience": 629897,
+    "experienceNextLevel": 1626100,
+    "experiencePercents": 38.7367,
+    "bonusExp": 110,
+    "premium": 0,
+    "startPoints": 1,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "BR",
+    "specialCode": "SkyBS",
+    "specialCodeBonus": 40,
+    "specialCodeValid": "2030-12-31 23:59:59",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "profileKey": "bc10304f3770a125c7e7cfcd78fe49e8",
+    "authData": {
+      "key": "DzsA1xwOa3LDz4WviaUP+RkFk/Gcp25hW0yHiUSzPuzj5LkA2AgYgwhg/xIF4BGYxaV05OPtq624y19Ebb31Bx9lLbxSCpaBeT0d5jYu+kJ49d/PmHhEDdPY5tB+4EYb9MeXpUvapS9/bkLCHnPCBNVbZh+S1qQxVQdswas0KjZewq7qIvUgyT4bwo17XQE6UOVumbLUIPTNW+Q+2e+V49dShXB6U739APSsZYkgwOHVHlSLwAgfwmpwTMA2lBHjnNhH6LduuJB6dx4zGGfjJMGC7YmBdq2C7PsnT8TvSo8x5aC4BI+LeRwlOfiRDprRuxrfPVggJBa0cyW1WMOZWw==",
+      "iv": "d/5z2tku48lyeexCQa9gNw==",
+      "data": "CSU6QZZfkZ5aS/8AAXT8nO9fuaNGqqLHSbQk6LoMl+q3cSUf1Ne//utE/Lol4atP6AgX54VhRLwkFNS/mpH3CkqyFJZn9PLJPfx88sE3zE91luDojMI4PJtCaMs8+hvv"
+    },
+    "hideFlag": true
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 377185258,
+      "type": 1,
+      "amount": 10,
+      "what": "player",
+      "reward": 57500,
+      "progress": 1
+    },
+    "2": {
+      "id": 257910414,
+      "type": 1,
+      "amount": 5,
+      "what": "mosquito",
+      "reward": 8000,
+      "progress": 2
+    },
+    "3": {
+      "id": 376891005,
+      "type": 1,
+      "amount": 1,
+      "what": "ghostlyReaper",
+      "reward": 408000,
+      "progress": 0
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1777409814.9741-79166116-b565f0f29ea2da258dc68e6a8f556391bfbcb4dbff77aa1374cfeab21e17d824",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31820",
+      "location": "EUNE",
+      "players": 123,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31820",
+      "location": "EUW",
+      "players": 210,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 2",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "32820",
+      "location": "EUW",
+      "players": 18,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31820",
+      "location": "NA",
+      "players": 277,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 2",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "32820",
+      "location": "NA",
+      "players": 62,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31820",
+      "location": "SA",
+      "players": 134,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31820",
+      "location": "ASE",
+      "players": 32,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31820",
+      "location": "ASSE",
+      "players": 31,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31820",
+      "location": "ASS",
+      "players": 32,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31820",
+      "location": "ASW",
+      "players": 29,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31820",
+      "location": "AUS",
+      "players": 46,
+      "maxPlayers": 300
+    }
+  ]
+}
