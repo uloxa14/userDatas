@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 31371123,
+    "login": "g_117105170831750162153",
+    "loginDisplay": "Nụ",
+    "name": "g_117105170831750162153",
+    "accountType": 1,
+    "level": 16,
+    "premiumPoints": 4,
+    "experience": 33302280,
+    "experienceNextLevel": 37158100,
+    "experiencePercents": 89.6232,
+    "bonusExp": 200,
+    "premium": 0,
+    "startPoints": 2,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "VN",
+    "specialCode": "plaxer1",
+    "specialCodeBonus": 40,
+    "specialCodeValid": "2030-12-31 23:59:59",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "profileKey": "9947c5d0783d088122b43f5c8fbecb5f",
+    "authData": {
+      "key": "SXOcgdrPzdLEk0RWFnOdrAoJpLiRHpvHxXM8FzLChikJRxM05UgjAMuSJrnEqGty8BGPLIvY8nJK//LvxbkfLUKUUF8+Hi4smkbQA/JnOoPgqnsTOz6A8a9ZJ18Rvs/zkv26jO5/Kfuw84RS4VMe8BEawJ2Vf/ExKRrKZTUklqs8XPRg16M15JcWHMBT+Eyxe84toVpqn9EuJX/0qamlRJs/yMF1nGz9WglO3LTvRGbLYpeHEEZCO3upSKq+V1dxckeeA/Kcn5MVEc5StRi+OLknXbP3XDoTxf4xOGJk75+u/t3yBosfXDYPN9sMPTGVsB47+mhMUx4k2t7hUYpHhg==",
+      "iv": "rfEmY9fYgrVmw6yL2mV/qg==",
+      "data": "owMWV+yVcOH9oZWjnODhXPWJKvbNtZF1QZIEoH3TiYvGSkarqw7bxxpqnxo8ADFPh03WfbzOz0RF2utmg8m7quJD0MaQST3uLJSsVNz3yJ2H/an8+G2XWaBqMZ39zRl1"
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 377520767,
+      "type": 2,
+      "amount": 75,
+      "what": "",
+      "reward": 318750,
+      "progress": 18
+    },
+    "2": {
+      "id": 377520771,
+      "type": 5,
+      "amount": 4,
+      "what": "crocodile",
+      "reward": 505750,
+      "progress": 0
+    },
+    "3": {
+      "id": 377515449,
+      "type": 1,
+      "amount": 1,
+      "what": "pumpkinGhost",
+      "reward": 1167000,
+      "progress": 0
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1777785524.3511-31371123-fba99fb7e083b83b9fb70d929fd02436141ef4fb68625fa9b93ae172a67f1eca",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31820",
+      "location": "EUNE",
+      "players": 131,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31820",
+      "location": "EUW",
+      "players": 133,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31820",
+      "location": "NA",
+      "players": 143,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31820",
+      "location": "SA",
+      "players": 71,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31820",
+      "location": "ASE",
+      "players": 137,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31820",
+      "location": "ASSE",
+      "players": 229,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 2",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "32820",
+      "location": "ASSE",
+      "players": 17,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31820",
+      "location": "ASS",
+      "players": 84,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31820",
+      "location": "ASW",
+      "players": 86,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31820",
+      "location": "AUS",
+      "players": 96,
+      "maxPlayers": 300
+    }
+  ]
+}
