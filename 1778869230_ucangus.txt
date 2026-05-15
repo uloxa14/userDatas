@@ -1,0 +1,152 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 59953729,
+    "login": "ucangus",
+    "loginDisplay": "ucangus",
+    "name": "ucangus",
+    "accountType": 0,
+    "level": 18,
+    "premiumPoints": 8,
+    "experience": 3427351,
+    "experienceNextLevel": 58683100,
+    "experiencePercents": 5.8404,
+    "bonusExp": 270,
+    "premium": 1,
+    "premiumTime": "2026-05-22 15:36:09",
+    "startPoints": 0,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "RU",
+    "specialCode": "Nortos",
+    "specialCodeBonus": 40,
+    "specialCodeValid": "2030-12-31 23:59:59",
+    "premiumBonus": 50,
+    "skins": "pets,1,2,3;grimReaper,1",
+    "selectedSkins": "grimReaper:1,pets:2",
+    "profileTheme": 0,
+    "profileKey": "a186bfdf5d5a710800da462cb45f3ecf",
+    "authData": {
+      "key": "IrCuhph7W3EnHbLIVQ4BKh+N1qdaOMQyRyJnCsQ9Z7rsPjUC7P8WnnMJtpJD4ne96WvNRxPg+VzTpn2V++N3aW3eVV3Ff4SeQlLIp8aXrhY8BAwzj53TPIcDZgVVYeijAzWM6tUhSJNgeQubywSl2GLkq7S0w9ryZ/NBwbPcuSKW6+X4D1p5n//kSgpMV72a0sIFUx4y48M8xM5uVdRkrXhg9k/o85vtwsEp7XnLoDu9cE6HdAr0KZxaCQs/MxkhCJP4MMRqYHBwrU/TC0oOHXgAlq6Sm+NjmIm9uHy3QFFnWPcK1gicAoFItdZQ4MKCYzRYMn/lV2RAr4ow3dxQCA==",
+      "iv": "BmqIApCARZ57yu9/YVIWUQ==",
+      "data": "v65zln/Al8NRrPcLtC1cVrtbD34+O9UwFPmPtwQ6wuUAEJmInIowj3lnohi3AdPDty6E2HikzmM8JmDafucMf83Kt7wxjZWAexImSxu9RI6moI42S0Uk14joxlslMKUiHBcStEp3HuhIi/kDGOLv1tSQGbog+iBT0aNylme7h8Ksfqr/pGGxlwfMPHSznLDW"
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "startTime": 62182
+    },
+    "2": {
+      "startTime": 71413
+    },
+    "3": {
+      "startTime": 71414
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1778869167.3417-59953729-bef6d8ea7bed50956ccb0fc8c5abec68ec8cde1ace84e92784b7002517551424",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31820",
+      "location": "EUNE",
+      "players": 186,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North-East Europe 2",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "32820",
+      "location": "EUNE",
+      "players": 79,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31820",
+      "location": "EUW",
+      "players": 295,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 2",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "32820",
+      "location": "EUW",
+      "players": 146,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31820",
+      "location": "NA",
+      "players": 277,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 2",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "32820",
+      "location": "NA",
+      "players": 73,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31820",
+      "location": "SA",
+      "players": 156,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31820",
+      "location": "ASE",
+      "players": 56,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31820",
+      "location": "ASSE",
+      "players": 53,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31820",
+      "location": "ASS",
+      "players": 56,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31820",
+      "location": "ASW",
+      "players": 67,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31820",
+      "location": "AUS",
+      "players": 53,
+      "maxPlayers": 300
+    }
+  ]
+}
