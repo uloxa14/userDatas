@@ -1,0 +1,155 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 116983211,
+    "login": "dsadad23",
+    "loginDisplay": "dsadad23",
+    "name": "dsadad23",
+    "accountType": 0,
+    "level": 0,
+    "premiumPoints": 0,
+    "experience": 0,
+    "experienceNextLevel": 1000,
+    "experiencePercents": 0,
+    "bonusExp": 0,
+    "premium": 0,
+    "startPoints": 3,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "GB",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "selectedSkins": "",
+    "profileTheme": 0,
+    "profileKey": "77fcfa96d7555121530ff9c0187d5d0a",
+    "authData": {
+      "key": "jPuLqgxAOw//0xWAmHUVKRsPmWFEnFICK3MUJu4o225NKS/27m/mVivMArTLmw/1+d7LcL3O2aHAcOPJPoQFUN/htVG6k3O/WMxS0/Ws2xEyj6L47wSeYa2fM7DjK28DSR8uxF/dcuwR7X6wsM3Ctegpoxsl7HxbtvTLSUJG2cDRbCFvw33fTs4EEraWGNxv21m/wMeHAhUHD4mGmZf4yqVuWcqGahMF3PBBrEDF48VHseFJv2LE4+WNQIJ30DAIhudO7v5u+LUZCFo09ZAmeorVbJXes6yxq56CPvRwhsVwsDLqFoACkOECg/5QrHOl3lP6vtRwmD3KEfOWojKzOQ==",
+      "iv": "LQTOzQC7WIE1vRniUk+Z5w==",
+      "data": "Y4CgEQaRavTLtLq3LAY4nKSskbcG8IXYOHoagHKf37I9nMFgzkS8rdOEcL0MaJv5hdyOs344t1EZQD4Jc72uk56AjIYbqidug7+RctaWhvdfZvT6jozaI/FqXhqiveADg7hBfgAsOekPzN2L5cKezBgH05Q+OWiiWLTBv0XcAMM="
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 379463771,
+      "type": 3,
+      "amount": 60,
+      "what": "",
+      "reward": 6000,
+      "progress": 0
+    },
+    "2": {
+      "id": 379463772,
+      "type": 4,
+      "amount": 1,
+      "what": "bat",
+      "reward": 1500,
+      "progress": 0
+    },
+    "3": {
+      "id": 379463773,
+      "type": 4,
+      "amount": 1,
+      "what": "pumpkinGhost",
+      "reward": 302500,
+      "progress": 0
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1779306972.7962-116983211-b16a3bc391a608f8d768568beabb114cc7ff8098e3044d17148a2f2ef3e8a132",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31820",
+      "location": "EUNE",
+      "players": 193,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31820",
+      "location": "EUW",
+      "players": 241,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 2",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "32820",
+      "location": "EUW",
+      "players": 95,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31820",
+      "location": "NA",
+      "players": 296,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 2",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "32820",
+      "location": "NA",
+      "players": 82,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31820",
+      "location": "SA",
+      "players": 139,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31820",
+      "location": "ASE",
+      "players": 42,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31820",
+      "location": "ASSE",
+      "players": 39,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31820",
+      "location": "ASS",
+      "players": 34,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31820",
+      "location": "ASW",
+      "players": 40,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31820",
+      "location": "AUS",
+      "players": 47,
+      "maxPlayers": 300
+    }
+  ]
+}
