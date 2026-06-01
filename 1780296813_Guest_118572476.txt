@@ -1,0 +1,155 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": true,
+    "id": 117296991,
+    "login": "Guest_118572476",
+    "loginDisplay": "Guest_118572476",
+    "name": "Guest_118572476",
+    "accountType": 0,
+    "level": 1,
+    "premiumPoints": 6,
+    "experience": 227,
+    "experienceNextLevel": 33100,
+    "experiencePercents": 0.6858,
+    "bonusExp": 10,
+    "premium": 0,
+    "startPoints": 3,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "VN",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "selectedSkins": "kill_effects:2,ghost:10,ghostlyReaper:5",
+    "profileTheme": 0,
+    "profileKey": "a82ad61c81abcf01de50e21eb0c643fe",
+    "authData": {
+      "key": "TpK8AUsnNvMD7zOZMI1xJjuCpfhffMRGp+OxI6xGFGj4baBPaKBYE8hPbi2NzRxV/baBq0Jw9tAu8yZEs9wSm0C+zqoy2ZTAolrcWwHZN8a8p1s4XpBhkyQHCh5scYshYW60iGj81Qcu4T6NCjqHUiFblx/ob5HUoI6T+cSK4E6xj3OeruBqnjONJGEt1s9+DAanA3h0hAgqd36dAZ0QkLzLjiWOZUREuLcw99gf0V60ifUTtVWWTow3x7V5u2eMDXgUpEOL9ldydwRRWaHTvOMiDxtBwySkZx2arbcmjufQl7maqcnkDdr8UeacnBXAIrprqddATarJhrg5JfG8Rw==",
+      "iv": "RT64e4IdRYez2HrHA8wxZA==",
+      "data": "BRwFirhv4MHfrtjDQknavafR8Hut/jKk+uSBU9/l+EkcTHwqPaRcyUtbt7XJewf/yympMAwfTl9MAPVk4eBXcmkP8Z4R+qFN11eN2PBNo1AjOuS01XpgDZHLoZfdMqFs"
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 380519624,
+      "type": 2,
+      "amount": 15,
+      "what": "",
+      "reward": 3750,
+      "progress": 9
+    },
+    "2": {
+      "id": 380519625,
+      "type": 4,
+      "amount": 1,
+      "what": "turkey",
+      "reward": 1500,
+      "progress": 0
+    },
+    "3": {
+      "id": 380519626,
+      "type": 4,
+      "amount": 1,
+      "what": "grimReaper",
+      "reward": 302500,
+      "progress": 0
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1780296802.4519-117296991-85399567d6bc5ce6ae772837df9b520401e8d8f14990b85518f555cba05ad1a0",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31830",
+      "location": "EUNE",
+      "players": 166,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31830",
+      "location": "EUW",
+      "players": 253,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 2",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "32830",
+      "location": "EUW",
+      "players": 21,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31830",
+      "location": "NA",
+      "players": 109,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31830",
+      "location": "SA",
+      "players": 63,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31830",
+      "location": "ASE",
+      "players": 129,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31830",
+      "location": "ASSE",
+      "players": 262,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 2",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "32830",
+      "location": "ASSE",
+      "players": 15,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31830",
+      "location": "ASS",
+      "players": 100,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31830",
+      "location": "ASW",
+      "players": 80,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31830",
+      "location": "AUS",
+      "players": 93,
+      "maxPlayers": 300
+    }
+  ]
+}
