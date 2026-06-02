@@ -1,0 +1,163 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": true,
+    "id": 117170543,
+    "login": "Guest_118448635",
+    "loginDisplay": "Guest_118448635",
+    "name": "Guest_118448635",
+    "accountType": 0,
+    "level": 0,
+    "premiumPoints": 0,
+    "experience": 734,
+    "experienceNextLevel": 1000,
+    "experiencePercents": 73.4,
+    "bonusExp": 0,
+    "premium": 0,
+    "startPoints": 3,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "FR",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "selectedSkins": "",
+    "profileTheme": 0,
+    "profileKey": "4a7b5458b79a464e4ab0e94792f29511",
+    "authData": {
+      "key": "Epo04GfJHYKaKAdrIKKaqHHw+mYnlIwSGDfSyzklumykRRfk67U/KMgjtxiKV9fxaGBXe90w+QB/gbzph+3BCvOBI88tn77D0NJBJcNTP9SBEUeSpxLiKGAenc0kZGNoJyCihScJ3T2Sy8T1cDWbz/7qKbFujKpGYI+9g2oYGdA4NFlDwZF9TPLdjVg5t+zAHCnREYuNtUzucFhpeFu8aq07kM3sQggANR22zx2AztytuNthCW5y0gDE9KT7sjW4dZ3iOpqXAVjtCZ1domr9szlzLXBpEQQ4/vqwmSiQmUNWoIGPOYQv2URjCp1nVYlMkmRWzyFoMtkIkqPHsyVc2Q==",
+      "iv": "Nht7bRFY9R8g6wB1wVAApg==",
+      "data": "5oA5twXHdT0D8ID+8E1Pu3EA3hRFEUewOQRq+Nt7EAEGwyKd1Yr17rpNoQyAzyFM2mXw+C4bH6OEJGrJJOWl20mwz8PGKijsFTzHowTUP5fS9OGbR2aofUZJoHZpsX9D"
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 380094292,
+      "type": 2,
+      "amount": 25,
+      "what": "",
+      "reward": 6250,
+      "progress": 5
+    },
+    "2": {
+      "id": 380094293,
+      "type": 4,
+      "amount": 1,
+      "what": "hornet",
+      "reward": 1500,
+      "progress": 0
+    },
+    "3": {
+      "id": 380094294,
+      "type": 4,
+      "amount": 1,
+      "what": "pumpkinGhost",
+      "reward": 302500,
+      "progress": 0
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1780399562.3599-117170543-8224e9e95d52a1728a4052049ad379cc18d68686720b4abd99878a707483d9d5",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31830",
+      "location": "EUNE",
+      "players": 270,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North-East Europe 2",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "32830",
+      "location": "EUNE",
+      "players": 34,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31830",
+      "location": "EUW",
+      "players": 294,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 2",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "32830",
+      "location": "EUW",
+      "players": 119,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31830",
+      "location": "NA",
+      "players": 122,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31830",
+      "location": "SA",
+      "players": 92,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31830",
+      "location": "ASE",
+      "players": 113,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31830",
+      "location": "ASSE",
+      "players": 220,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 2",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "32830",
+      "location": "ASSE",
+      "players": 14,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31830",
+      "location": "ASS",
+      "players": 95,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31830",
+      "location": "ASW",
+      "players": 84,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31830",
+      "location": "AUS",
+      "players": 85,
+      "maxPlayers": 300
+    }
+  ]
+}
