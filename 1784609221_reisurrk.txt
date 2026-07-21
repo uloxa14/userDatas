@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 84283664,
+    "login": "reisurrk",
+    "loginDisplay": "reisurrk",
+    "name": "reisurrk",
+    "accountType": 0,
+    "level": 12,
+    "premiumPoints": 8,
+    "eventTickets": 0,
+    "experience": 4479126,
+    "experienceNextLevel": 12276100,
+    "experiencePercents": 36.4866,
+    "bonusExp": 160,
+    "premium": 0,
+    "startPoints": 2,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "VN",
+    "specialCode": "SkyBS",
+    "specialCodeBonus": 40,
+    "specialCodeValid": "2030-12-31 23:59:59",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3;ghostlyReaper,1;grimReaper,4",
+    "selectedSkins": "",
+    "profileTheme": 0,
+    "profileKey": "25b18090c4dcac49cf1956ebb9a22f86",
+    "authData": {
+      "key": "MonISn0m+9U8kvxoxdQmDjxCazfc3H9tNV1ZZ/OkPH3RfxlIQjlfEamhLUlFkMRNJGUV9nDz/S/YTEOikvGwVlBRgkpu9RcjqlI1uNmeIhNx1GNdBMGcUSIGksHeWLC1siUGXP30NCAGAl9ipFkBw0uxvfn/ejb8l0LuK4UluNCpvTAXSeG9Frq33jaBU4YnDMVJ6KpRxJCAMRZdoap3ESrLP56sIrZcxKSqWsxjbVmCQkYpefDV8qYC1wrAdcqXqGU9bHXVnItKY7wWdR3iPr7YKrZXIwQCKMNpO+VjUrID2GE7a6FeQ8y7l0zXqR8STJKt5QXcHX0yzUlwRgls8w==",
+      "iv": "TiKskx2mFrUyT/KWwl9A2w==",
+      "data": "vOkSnZlUsyvIDhvsoU8Z9VCklsRvJMMh6BlTbqT8fKuc1fZgkZl4hydL05NxryXi39LFSSE12+vN8e2cwukPzrSxIU/pTGao7X+oSwAPzP+6yxu8LcZPH2LOvRqZTS9EAHnh3TeC/BCos3cPieZSYomMjNe2Arz6DXqUvsTsU8Cx9G6+ogjxyfDpanD2tGUUxTIx5ljwQ1Kr/dnTyufY9g=="
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 355224932,
+      "type": 2,
+      "amount": 75,
+      "what": "",
+      "reward": 243750,
+      "progress": 67
+    },
+    "2": {
+      "id": 384679311,
+      "type": 4,
+      "amount": 1,
+      "what": "alienBat",
+      "reward": 253500,
+      "progress": 0
+    },
+    "3": {
+      "id": 283129858,
+      "type": 4,
+      "amount": 1,
+      "what": "ghostlyReaper",
+      "reward": 660000,
+      "progress": 1
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1784609166.2417-84283664-adf6c3033e911bc0c412b3bb5ccd5e7665d03ebae1498870a065edcf33726615",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31830",
+      "location": "EUNE",
+      "players": 138,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31830",
+      "location": "EUW",
+      "players": 126,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31830",
+      "location": "NA",
+      "players": 171,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31830",
+      "location": "SA",
+      "players": 74,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31830",
+      "location": "ASE",
+      "players": 156,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31830",
+      "location": "ASSE",
+      "players": 268,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 2",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "32830",
+      "location": "ASSE",
+      "players": 18,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31830",
+      "location": "ASS",
+      "players": 70,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31830",
+      "location": "ASW",
+      "players": 76,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31830",
+      "location": "AUS",
+      "players": 83,
+      "maxPlayers": 300
+    }
+  ]
+}
