@@ -1,0 +1,156 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": true,
+    "id": 120804327,
+    "login": "Guest_121890990",
+    "loginDisplay": "Guest_121890990",
+    "name": "Guest_121890990",
+    "accountType": 0,
+    "level": 0,
+    "premiumPoints": 0,
+    "eventTickets": 0,
+    "experience": 432,
+    "experienceNextLevel": 1000,
+    "experiencePercents": 43.2,
+    "bonusExp": 0,
+    "premium": 0,
+    "startPoints": 3,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "VN",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "selectedSkins": "grimReaper:6",
+    "profileTheme": 0,
+    "profileKey": "c9517c8e5a09085aed405f89aea71af3",
+    "authData": {
+      "key": "FOh6iYGbkqeJnyhcJt8IUNlN49/+fKzR94u7vPMcKatL54yEhhn8Q0t7Ww8nLGMl+uhCx6wBF5wQBdVT4WrHu4xp1kt7gRnuvWeVmUdmCQJT42GbQ0hK+Ug8BZFYO+fc0+ME8wyJtefZ/MCP8utrHpA7sO0wuaiacL9UwIbvT9mU5zCIPggEp48cMzOoXgOl2J79Roo9Z7YQ4S90Vue7pmxpozF+OiYbnK+6E66MoawadE/HDb15tl1lLp1L1wxnmEnSU7XHs9LbfHE/VX+Hrs2w+HSDrucQarhZSnCGIfFVDNyhDfxYL/P6uaz5QajKGHQbNOenGgxIM+oKk5D9KQ==",
+      "iv": "e4rTEVDS2X1mk5H0zxx3Cg==",
+      "data": "xnf+ILsbbbce98jLlqHRIt6U5r2WxlnTGHTdHOFnfEp7Wu1HGRsWQnfoN/7ASyG8BgdU2+yKj154QoNGFic/rCnjH8ADpyekPqa87zP/hnECvJE2aZuD3ZcR2XRu0b7z"
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 392047798,
+      "type": 1,
+      "amount": 5,
+      "what": "player",
+      "reward": 2500,
+      "progress": 0
+    },
+    "2": {
+      "id": 392047799,
+      "type": 1,
+      "amount": 5,
+      "what": "mosquito",
+      "reward": 2000,
+      "progress": 0
+    },
+    "3": {
+      "id": 392047800,
+      "type": 4,
+      "amount": 1,
+      "what": "ghost",
+      "reward": 302500,
+      "progress": 0
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1792137919.5622-120804327-a6daad2eaa3492f7a195c1bb955f8cca5e9f675070eb365fa9df8bf3da3ce9cb",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31840",
+      "location": "EUNE",
+      "players": 175,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31840",
+      "location": "EUW",
+      "players": 267,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 2",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "32840",
+      "location": "EUW",
+      "players": 30,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31840",
+      "location": "NA",
+      "players": 109,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31840",
+      "location": "SA",
+      "players": 63,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://152-236-16-43.evoworld.io",
+      "port": "31840",
+      "location": "ASE",
+      "players": 97,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31840",
+      "location": "ASSE",
+      "players": 215,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 2",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "32840",
+      "location": "ASSE",
+      "players": 9,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31840",
+      "location": "ASS",
+      "players": 81,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31840",
+      "location": "ASW",
+      "players": 85,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31840",
+      "location": "AUS",
+      "players": 71,
+      "maxPlayers": 300
+    }
+  ]
+}
