@@ -1,0 +1,155 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 92315083,
+    "login": "g_111676952528886133034",
+    "loginDisplay": "negra67",
+    "name": "g_111676952528886133034",
+    "accountType": 1,
+    "level": 14,
+    "premiumPoints": 0,
+    "eventTickets": 0,
+    "experience": 12377293,
+    "experienceNextLevel": 22185100,
+    "experiencePercents": 55.791,
+    "bonusExp": 180,
+    "premium": 0,
+    "startPoints": 3,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "BR",
+    "specialCode": "Akax",
+    "specialCodeBonus": 40,
+    "specialCodeValid": "2030-12-31 23:59:59",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "selectedSkins": "",
+    "profileTheme": 0,
+    "profileKey": "885bcce5059fc1464134c4a241f31723",
+    "authData": {
+      "key": "cxXtWvPRDqL2TJzpKiHo/3bFNn7LttAuue2nwNVaassHqYxL3WHLulcLg53Anhjs7/mpF6g4Zp56bkLjWR2pYr8XkpH7Kp0z6oK/s5RU7movzDZ/Qc9Bu9CWiZT21z7P/T9CXQc0wzDh8JWB5s77TmN4deTzVTwbzAdjitj9yGrgzzAUm4cecE8H+XBUy8giDBs74njvRrAPmzNcB7wAdxTwemyrXgNtdzcFWiP8HpylBuK2/oUFNDLN6t4RjZciAU34Fga1EbIxz7jRspzlQPrN5PBDxmcolp2iuWeoL2YV39F3TggpJ52IED6DrR0aSF6hVUkbxcn0G8l1hA4IUA==",
+      "iv": "Sg2cpOGWOWqAVfhMZ7IWDw==",
+      "data": "w7+w2VdtRf+XRM0uk4txZ+4YGfaE4lq8zrtTfN8L6e2wmtkWHx9R+CiW5ZflfmiJpfIfoFRK9t9mf8LP2sJTByUHFVQpSdyHCP8bspZgd8WUFDF8CE1JUpOXHlwuIdED"
+    }
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 394668638,
+      "type": 2,
+      "amount": 75,
+      "what": "",
+      "reward": 281250,
+      "progress": 6,
+      "slot": 1
+    },
+    "2": {
+      "id": 392757933,
+      "type": 1,
+      "amount": 1,
+      "what": "snowyOwl",
+      "reward": 450000,
+      "progress": 0,
+      "slot": 2
+    },
+    "3": {
+      "id": 350158028,
+      "type": 4,
+      "amount": 1,
+      "what": "pumpkinGhost",
+      "reward": 862500,
+      "progress": 1,
+      "slot": 3
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1795394909.7218-92315083-91f4f5551c255d551738d49b8d6e5a21d41301500e9ba9a2837a4b625a30d70c",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31850",
+      "location": "EUNE",
+      "players": 107,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31850",
+      "location": "EUW",
+      "players": 84,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31850",
+      "location": "NA",
+      "players": 290,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 2",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "32850",
+      "location": "NA",
+      "players": 74,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31850",
+      "location": "SA",
+      "players": 118,
+      "maxPlayers": 300,
+      "connected": true
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://152-236-16-43.evoworld.io",
+      "port": "31850",
+      "location": "ASE",
+      "players": 75,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31850",
+      "location": "ASSE",
+      "players": 60,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31850",
+      "location": "ASS",
+      "players": 32,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31850",
+      "location": "ASW",
+      "players": 33,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31850",
+      "location": "AUS",
+      "players": 50,
+      "maxPlayers": 300
+    }
+  ]
+}
